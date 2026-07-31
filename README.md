@@ -1,49 +1,156 @@
-# Prince Patel
+<div align="center">
 
-> Full Stack Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Prince%20Patel&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mrprincepatel&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### Technologies
+# 👋 Hello
 
-```
-C++ • JavaScript • React • Node.js
-Express • MongoDB • Tailwind • Git
-```
+I'm **Prince Patel**, a Full Stack Developer from India passionate about building modern web applications with clean UI, scalable backend systems, and intuitive user experiences.
 
 ---
 
-### Featured
+# 🚀 Current Focus
 
-```
-📝 Notepad Pro
-Search • Pin Notes • Clean UI
-
-🌐 Portfolio
-Modern Responsive Website
-```
+- Full Stack Development
+- Backend Architecture
+- Artificial Intelligence
+- Open Source
+- Learning New Technologies
 
 ---
 
-### GitHub Insights
+# ⚡ Tech Stack
+
+### Languages
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprincepatel&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincepatel&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
 
 </p>
 
 ---
 
-Portfolio • LinkedIn • Email
+# 📈 GitHub Stats
 
+<p align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprincepatel&theme=github_dark"/>
 
+</p>
 
+<p align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrprincepatel&theme=github_dark"/>
 
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrprincepatel&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
 
 
 
