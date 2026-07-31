@@ -4,19 +4,19 @@
 
 ### Full Stack Developer
 
-<p>
-Building modern, scalable web applications with clean architecture.
-</p>
+Building modern, scalable web applications with clean architecture and intuitive user experiences.
 
 <p>
 <a href="http://prince22.firebaseapp.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/princepatel22/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+&nbsp;
 <a href="mailto:e.princepatel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -27,7 +27,9 @@ Building modern, scalable web applications with clean architecture.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=7"/>
+
 </p>
 
 ---
@@ -38,12 +40,10 @@ Building modern, scalable web applications with clean architecture.
 
 <a href="https://github.com/mrprincepatel/Notepad-Pro">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrprincepatel&repo=Notepad-Pro&theme=transparent&hide_border=true"/>
-
 </a>
 
 <a href="https://github.com/mrprincepatel/Portfolio">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrprincepatel&repo=Portfolio&theme=transparent&hide_border=true"/>
-
 </a>
 
 </p>
@@ -54,7 +54,7 @@ Building modern, scalable web applications with clean architecture.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprincepatel&show_icons=true&rank_icon=github&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprincepatel&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincepatel&layout=compact&theme=transparent&hide_border=true"/>
 
@@ -68,9 +68,20 @@ Building modern, scalable web applications with clean architecture.
 
 ---
 
+## Currently Building
+
+- Modern Full Stack Applications
+- RESTful APIs
+- Responsive User Interfaces
+- Clean & Scalable Software
+
+---
+
 <div align="center">
 
-*"Building software that is simple, scalable, and impactful."*
+### Thanks for stopping by!
+
+*"Build. Learn. Improve."*
 
 </div>
 
