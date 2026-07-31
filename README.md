@@ -51,15 +51,15 @@ Full Stack Developer passionate about building fast, scalable, and user-friendly
 
 ---
 
-## GitHub Stats
+## GitHub Insights
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprincepatel&show_icons=true&theme=transparent&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincepatel&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrprincepatel&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincepatel&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=mrprincepatel&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrprincepatel&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
