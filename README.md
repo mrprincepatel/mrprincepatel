@@ -30,7 +30,7 @@ I'm **Prince Patel**, a Full Stack Developer from India passionate about buildin
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - Full Stack Development
 - Backend Architecture
@@ -40,7 +40,7 @@ I'm **Prince Patel**, a Full Stack Developer from India passionate about buildin
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -104,7 +104,7 @@ I'm **Prince Patel**, a Full Stack Developer from India passionate about buildin
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -126,7 +126,7 @@ I'm **Prince Patel**, a Full Stack Developer from India passionate about buildin
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <p align="center">
 
