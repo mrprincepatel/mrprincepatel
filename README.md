@@ -133,10 +133,10 @@ Personal portfolio showcasing projects, skills, and professional journey with re
 
 ## Connect
 
-* **GitHub:** https://github.com/YOUR_USERNAME
-* **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-* **Portfolio:** https://YOUR_PORTFOLIO
-* **Email:** YOUR_EMAIL
+* **GitHub:** https://github.com/mrprincepatel
+* **LinkedIn:** https://www.linkedin.com/in/princepatel22/
+* **Portfolio:** http://prince22.firebaseapp.com/
+* **Email:** e.princepatel@gmail.com
 
 ---
 
