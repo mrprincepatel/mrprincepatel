@@ -61,7 +61,11 @@ Full Stack Developer passionate about building fast, scalable, and user-friendly
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrprincepatel&theme=transparent&hide_border=true" height="165"/>
 </p>
+## Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrprincepatel/mrprincepatel/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 <div align="center">
